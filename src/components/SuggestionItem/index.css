@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.suggestion-list {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+}
+.button {
+  border: none;
+  padding: 2px;
+  background-color: #ffffff;
+}
+.suggestion-names {
+  font-family: Roboto;
+  color: #475569;
+}
